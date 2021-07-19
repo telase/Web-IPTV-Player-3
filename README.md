@@ -35,6 +35,8 @@ Video Type : "HTML5", "youtube", "vimeo", "image"
 						description:"General",
 						info:"Turkey"
 					},
-          
-          
+					
+## View
+![Demo](https://raw.githubusercontent.com/telase/Lite-IPTV-Web-Plyer/main/lvp.png)          
+
           
