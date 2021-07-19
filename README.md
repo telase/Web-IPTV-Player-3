@@ -1,4 +1,4 @@
-# Lite-IPTV-Web-Plyer
+# Lite-IPTV-Web-Player
 
 Adding and Changing Links
 Video Type : "HTML5", "youtube", "vimeo", "image"
