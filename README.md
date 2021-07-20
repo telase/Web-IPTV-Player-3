@@ -37,6 +37,6 @@ Video Type : "HTML5", "youtube", "vimeo", "image"
 					},
 					
 ## View
-![Demo](https://raw.githubusercontent.com/telase/Lite-IPTV-Web-Plyer/main/lvp.png)          
+![Demo](https://raw.githubusercontent.com/telase/Web-IPTV-Player-3/main/lvp.png)          
 
           
